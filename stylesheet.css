@@ -1,0 +1,38 @@
+html {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  text-align: center;
+}
+
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  margin-bottom: 0px;
+}
+
+p {
+  font-style: oblique;
+}
+
+a {
+ text-decoration: none;
+}
+
+footer {
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.social-links {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+}
